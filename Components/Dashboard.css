@@ -1,0 +1,24 @@
+.maxHeight {
+    height: 100%;
+}
+
+.dashboardColor {
+    background-color: #4B0DBA;
+    height: 100%;
+    color: aliceblue;
+    
+}
+
+li:hover {
+    background-color: black;
+    color: black;
+}
+
+.backgroundColor {
+    background-color: aliceblue;
+    padding: 0%;
+}
+
+.sidebar {
+    background-color: #4B0DBA;
+}
