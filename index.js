@@ -71,7 +71,7 @@ app.post(`/creatementors`, async (req, res) => {
             course
         })
         //console.log('Received data:', mentorname, mentorname);
-        // Send a response back to the frontend
+        // Send a response back to the frontend,
         res.status(200).send('Data received successfully!');
     } catch (error) {
         console.error('Error processing request:', error);
