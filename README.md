@@ -16,7 +16,9 @@
  - Express JS
  - MONGO DB
 
- **Task URL:**  https://app-class.netlify.app
+ **Front-End Deploted URL:**  https://app-class.netlify.app
+
+ **Back-End Deployed URL:** https://fullstackapp-2.onrender.com
 
  ## Installation steps:
 
