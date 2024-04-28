@@ -2,9 +2,12 @@ const dotenv = require("dotenv").config();
 
 const mongoose = require("mongoose");
 
-const mongoDB = dotenv.parsed.MONGO_DB;
+//const mongoDB = dotenv.parsed.MONGO_DB;
+const mongoDB = process.env.MONGO_DB;
 
-console.log(mongoDB, "url");
+console.log(process.env.MONGO_DB, "MONGODB");
+
+//console.log(mongoDB, "url");
 
 const connectDB = async () => {
     const DBRes = await mongoose.connect(mongoDB);
