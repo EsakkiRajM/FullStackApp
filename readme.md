@@ -2,6 +2,10 @@
 
 **Back-End Deployed URL: https://fullstackapp-2.onrender.com**
 
+### README:
+
+https://github.com/EsakkiRajM/FullStackApp/blob/ClassApp-FE/README.md
+
 1. Clone the repository (or) Download the projects:
 
     ``` bash
